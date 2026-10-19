@@ -1,0 +1,6 @@
+{
+  "name": "Wolfius Gemini",
+  "description": "Ultra-lightweight Gemini AI client optimized for low-RAM tablets like Prestigio MultiPad 2 with Wolfius Non-Root mode and open-source browser integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
